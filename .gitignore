@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Restaurant Menu App/*
+!/Restaurant Menu App/task/
+/Restaurant Menu App/task/*
+!/Restaurant Menu App/task/src
+!/Restaurant Menu App/task/build.gradle
