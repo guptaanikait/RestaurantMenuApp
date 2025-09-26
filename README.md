@@ -56,5 +56,3 @@ Decrease quantities using the "− button".
 Click "Make Order" to finalize.
 
 A Toast will display ordered items, and the stock for that dish will decrease.
-
-Screenshots
